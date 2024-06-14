@@ -1,1 +1,2 @@
-functionB();
+functionB(a);
+
